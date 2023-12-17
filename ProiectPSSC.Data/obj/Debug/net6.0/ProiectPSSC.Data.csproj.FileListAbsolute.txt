@@ -1,0 +1,105 @@
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.AssemblyReference.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfoInputs.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfo.cs
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CoreCompileInputs.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.deps.json
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.pdb
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CopyComplete
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\obj\Debug\net6.0\refint\ProiectPSSC.Data.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Data\obj\Debug\net6.0\ref\ProiectPSSC.Data.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.deps.json
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.pdb
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.AssemblyReference.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfoInputs.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfo.cs
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CoreCompileInputs.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CopyComplete
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\refint\ProiectPSSC.Data.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ref\ProiectPSSC.Data.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.deps.json
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfo.cs
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CopyComplete
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\refint\ProiectPSSC.Data.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ref\ProiectPSSC.Data.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.deps.json
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.pdb
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.AssemblyReference.cache
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfoInputs.cache
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfo.cs
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CoreCompileInputs.cache
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CopyComplete
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\refint\ProiectPSSC.Data.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ref\ProiectPSSC.Data.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.deps.json
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfo.cs
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CopyComplete
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\refint\ProiectPSSC.Data.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ref\ProiectPSSC.Data.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.deps.json
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.pdb
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfo.cs
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CopyComplete
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\refint\ProiectPSSC.Data.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.pdb
+C:\Users\maria\Desktop\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ref\ProiectPSSC.Data.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.deps.json
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Data.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\bin\Debug\net6.0\ProiectPSSC.Domain.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.AssemblyReference.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfoInputs.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.AssemblyInfo.cs
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CoreCompileInputs.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.csproj.CopyComplete
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\refint\ProiectPSSC.Data.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ProiectPSSC.Data.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Data\obj\Debug\net6.0\ref\ProiectPSSC.Data.dll
