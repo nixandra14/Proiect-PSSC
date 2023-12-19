@@ -1,0 +1,35 @@
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\bin\Debug\net6.0\ProiectPSSC.Dto.deps.json
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\bin\Debug\net6.0\ProiectPSSC.Dto.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\bin\Debug\net6.0\ProiectPSSC.Dto.pdb
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.csproj.AssemblyReference.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.AssemblyInfoInputs.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.AssemblyInfo.cs
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\obj\Debug\net6.0\refint\ProiectPSSC.Dto.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.pdb
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Dto\obj\Debug\net6.0\ref\ProiectPSSC.Dto.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\bin\Debug\net6.0\ProiectPSSC.Dto.deps.json
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\bin\Debug\net6.0\ProiectPSSC.Dto.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\bin\Debug\net6.0\ProiectPSSC.Dto.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.AssemblyInfo.cs
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\refint\ProiectPSSC.Dto.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ref\ProiectPSSC.Dto.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Dto\bin\Debug\net6.0\ProiectPSSC.Dto.deps.json
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Dto\bin\Debug\net6.0\ProiectPSSC.Dto.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Dto\bin\Debug\net6.0\ProiectPSSC.Dto.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.AssemblyInfoInputs.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.AssemblyInfo.cs
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.csproj.CoreCompileInputs.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\refint\ProiectPSSC.Dto.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ProiectPSSC.Dto.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Dto\obj\Debug\net6.0\ref\ProiectPSSC.Dto.dll

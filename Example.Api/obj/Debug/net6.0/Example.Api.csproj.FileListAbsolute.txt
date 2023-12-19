@@ -1,0 +1,809 @@
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.csproj.AssemblyReference.cache
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfoInputs.cache
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfo.cs
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CoreCompileInputs.cache
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\appsettings.json
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.exe
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.deps.json
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.runtimeconfig.json
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.pdb
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\CSharp.Choices.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\CSharp.Choices.Attributes.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\LanguageExt.Core.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Data.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Exemple.Domain.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Data.pdb
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Exemple.Domain.pdb
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\scopedcss\bundle\Example.Api.styles.css
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CopyComplete
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\refint\Example.Api.dll
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.pdb
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.genruntimeconfig.cache
+D:\ANUL IV\SEM1\PSSC\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\ref\Example.Api.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.exe
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.deps.json
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.runtimeconfig.json
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.pdb
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\CSharp.Choices.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\CSharp.Choices.Attributes.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\LanguageExt.Core.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Data.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Exemple.Domain.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Data.pdb
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Exemple.Domain.pdb
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfoInputs.cache
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfo.cs
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\scopedcss\bundle\Example.Api.styles.css
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CopyComplete
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\refint\Example.Api.dll
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.pdb
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.genruntimeconfig.cache
+C:\Users\maria\Documents\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\ref\Example.Api.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.exe
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.deps.json
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.runtimeconfig.json
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Api.pdb
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\CSharp.Choices.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\CSharp.Choices.Attributes.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\LanguageExt.Core.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Data.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Exemple.Domain.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Example.Data.pdb
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\bin\Debug\net6.0\Exemple.Domain.pdb
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.csproj.AssemblyReference.cache
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfoInputs.cache
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfo.cs
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CoreCompileInputs.cache
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.Example.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Example.Api.props
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Example.Api.props
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Example.Api.props
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\scopedcss\bundle\Example.Api.styles.css
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CopyComplete
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\refint\Example.Api.dll
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.pdb
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\Example.Api.genruntimeconfig.cache
+C:\Users\Roxana Vasile\Downloads\Lucrarea-06 (1)\Lucrarea-06\Exemple\Example.Api\obj\Debug\net6.0\ref\Example.Api.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\refint\Example.Api.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.exe
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.deps.json
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.runtimeconfig.json
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\CSharp.Choices.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\CSharp.Choices.Attributes.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\LanguageExt.Core.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Data.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Exemple.Domain.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Data.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Exemple.Domain.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfo.cs
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\scopedcss\bundle\Example.Api.styles.css
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CopyComplete
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.genruntimeconfig.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\ref\Example.Api.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.exe
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.deps.json
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.runtimeconfig.json
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.pdb
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\CSharp.Choices.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\CSharp.Choices.Attributes.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\LanguageExt.Core.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Data.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Exemple.Domain.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Data.pdb
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Exemple.Domain.pdb
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.AssemblyReference.cache
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfoInputs.cache
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfo.cs
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CoreCompileInputs.cache
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.Example.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Example.Api.props
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Example.Api.props
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Example.Api.props
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\scopedcss\bundle\Example.Api.styles.css
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CopyComplete
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\refint\Example.Api.dll
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.pdb
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.genruntimeconfig.cache
+C:\Users\Roxana Vasile\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\ref\Example.Api.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.exe
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.deps.json
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.runtimeconfig.json
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\CSharp.Choices.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\CSharp.Choices.Attributes.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\LanguageExt.Core.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Data.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Exemple.Domain.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Data.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Exemple.Domain.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfo.cs
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\scopedcss\bundle\Example.Api.styles.css
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CopyComplete
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\refint\Example.Api.dll
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.genruntimeconfig.cache
+C:\Users\maria\Downloads\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001 (1)\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\ref\Example.Api.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.exe
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.deps.json
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.runtimeconfig.json
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.pdb
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\CSharp.Choices.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\CSharp.Choices.Attributes.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\LanguageExt.Core.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Data.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Exemple.Domain.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Data.pdb
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Exemple.Domain.pdb
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfo.cs
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\scopedcss\bundle\Example.Api.styles.css
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CopyComplete
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\refint\Example.Api.dll
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.pdb
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.genruntimeconfig.cache
+C:\Users\maria\Desktop\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\ref\Example.Api.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\appsettings.json
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.exe
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.deps.json
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.runtimeconfig.json
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Api.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\CSharp.Choices.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\CSharp.Choices.Attributes.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\LanguageExt.Core.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Data.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Exemple.Domain.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Example.Data.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Exemple.Domain.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.AssemblyReference.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfoInputs.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.AssemblyInfo.cs
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CoreCompileInputs.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.Example.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Example.Api.props
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Example.Api.props
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Example.Api.props
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\scopedcss\bundle\Example.Api.styles.css
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.csproj.CopyComplete
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\refint\Example.Api.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\Example.Api.genruntimeconfig.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\obj\Debug\net6.0\ref\Example.Api.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Azure.Core.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\Example.Api\bin\Debug\net6.0\System.Memory.Data.dll

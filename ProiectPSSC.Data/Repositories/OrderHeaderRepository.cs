@@ -22,8 +22,6 @@ namespace ProiectPSSC.Data.Repositories
 
         public TryAsync<List<CalculatedProductPrice>> TryGetExistingClientOrders() => async () => (await (
             from c in dbContext.Clients
-           // from p in dbContext.Products
-          //  from ol in dbContext.OrderLines
             join oh in dbContext.OrderHeaders on c.ClientId equals oh.ClientId
             select new { oh.ClientEmail, oh.TotalPrice, oh.ClientId, oh.ProductCode, oh.Quantity })
             .AsNoTracking()
@@ -51,7 +49,7 @@ namespace ProiectPSSC.Data.Repositories
                   ProductCode = p.code.Value,
                   Quantity = p.quantity.Value,
                   TotalPrice = p.totalPrice.Price,
-                  PaymentOption = "ramburs", //tiganie
+                  PaymentOption = "ramburs", 
             });
 
             var updatedOrderProducts = order.ProductList.Where(p => p.IsUpdated && p.OrderId > 0)
@@ -63,7 +61,7 @@ namespace ProiectPSSC.Data.Repositories
                     ProductCode = p.code.Value,
                     Quantity = p.quantity.Value,
                     TotalPrice = p.totalPrice.Price,
-                    PaymentOption = "ramburs", //tiganie
+                    PaymentOption = "ramburs", 
                 });
 
             dbContext.AddRange(newOrderProducts);
@@ -72,7 +70,7 @@ namespace ProiectPSSC.Data.Repositories
                 dbContext.Entry(entity).State = EntityState.Modified;
             }
 
-           //await dbContext.SaveChangesAsync();
+           
             
             try
             {
@@ -93,11 +91,10 @@ namespace ProiectPSSC.Data.Repositories
                             var proposedValue = proposedValues[property];
                             var databaseValue = databaseValues[property];
 
-                            // TODO: decide which value should be written to database
-                            // proposedValues[property] = <value to be saved>;
+                           
                         }
 
-                        // Refresh original values to bypass next concurrency check
+                      
                         entry.OriginalValues.SetValues(databaseValues);
                     }
                     else

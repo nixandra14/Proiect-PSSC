@@ -27,9 +27,6 @@ namespace Example.Data.Repositories
                           .ToListAsync())
                           .Select(result => new CalculatedBillNumber(
                                                     ClientEmail: new(result.ClientEmail),
-                                                    //ExamGrade: new(result.Exam ?? 0m),
-                                                   // ActivityGrade: new(result.Activity ?? 0m),
-                                                   // FinalGrade: new(result.Final ?? 0m),
                                                     BillAddress: new(result.BillAddress),
                                                     BillNumber: new(result.BillNumber))
                           { 
@@ -47,9 +44,7 @@ namespace Example.Data.Repositories
                                         ClientId = clients[g.ClientEmail.Value].Single().ClientId,
                                         BillNumber = g.BillNumber.Value,
                                         BillAddress=g.BillAddress.Value
-                                        //Exam = g.ExamGrade.Value,
-                                        //Activity = g.ActivityGrade.Value,
-                                        //Final = g.FinalGrade.Value,
+                                        
                                     });
             var updatedBills = bills.BillList.Where(g => g.IsUpdated && g.BillId > 0)
                                     .Select(g => new BillDto()
@@ -58,9 +53,7 @@ namespace Example.Data.Repositories
                                         ClientId = clients[g.ClientEmail.Value].Single().ClientId,
                                         BillAddress=g.BillAddress.Value,
                                         BillNumber = g.BillNumber.Value
-                                        //Exam = g.ExamGrade.Value,
-                                        //Activity = g.ActivityGrade.Value,
-                                        //Final = g.FinalGrade.Value,
+                                        
                                     });;
 
             dbContext.AddRange(newBills);

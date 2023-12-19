@@ -1,0 +1,240 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Example.Api\\Example.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Example.Api\\Example.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Example.Api\\Example.Api.csproj",
+        "projectName": "Example.Api",
+        "projectPath": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Example.Api\\Example.Api.csproj",
+        "packagesPath": "C:\\Users\\Nixandra\\.nuget\\packages\\",
+        "outputPath": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Example.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nixandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Example.Data\\Example.Data.csproj": {
+                "projectPath": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Example.Data\\Example.Data.csproj"
+              },
+              "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Exemple.Domain\\Exemple.Domain.csproj": {
+                "projectPath": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Exemple.Domain\\Exemple.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Example.Data\\Example.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Example.Data\\Example.Data.csproj",
+        "projectName": "Example.Data",
+        "projectPath": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Example.Data\\Example.Data.csproj",
+        "packagesPath": "C:\\Users\\Nixandra\\.nuget\\packages\\",
+        "outputPath": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Example.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nixandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Exemple.Domain\\Exemple.Domain.csproj": {
+                "projectPath": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Exemple.Domain\\Exemple.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[3.4.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Exemple.Domain\\Exemple.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Exemple.Domain\\Exemple.Domain.csproj",
+        "projectName": "Exemple.Domain",
+        "projectPath": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Exemple.Domain\\Exemple.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nixandra\\.nuget\\packages\\",
+        "outputPath": "D:\\Facultate\\AN 4\\sem 1\\PSSC\\ProiectPSSC\\ProiectPSSC - V1001\\Exemple.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nixandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CSharp.Choices": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "CSharp.Choices.Attributes": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "CSharp.Choices.Generators": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[3.4.15, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

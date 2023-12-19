@@ -7,6 +7,5 @@ using System.Threading.Tasks;
 namespace ProiectPSSC.Domain.Models
 {
     public record UnvalidatedClientOrder(string ClientEmail, string ProductCode, int Quantity);
-    // public record UnvalidatedClientOrder(string ClientEmail, string ProductCode, int Quantity, decimal productPrice);
 
 }

@@ -58,7 +58,6 @@ namespace ProiectPSSC.Data.Repositories
                 totalPrice: new(result.Price * result.Quantity))
                 {
                     OrderId = result.OrderId,
-                    //ProductId = result.ProductId
                 })
                 .ToList();
 

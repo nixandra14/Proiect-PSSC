@@ -66,12 +66,7 @@ namespace Exemple.Domain
            whenPublishedClientBills: publishedBills => Right(publishedBills),
            whenCalculatedClientBills: calculatedBills => Left(calculatedBills as IClientBills)
 
-                //whenUnvalidatedBills: unvalidatedBill => Left(unvalidatedBill as IClientBills),
-                //whenCalculatedExamGrades: calculatedBills => Left(calculatedBills as IClientBills),
-                //whenInvalidExamGrades: invalidBills => Left(invalidBills as IClientBills),
-                //whenFailedExamGrades: failedBills => Left(failedBills as IClientBills),
-                //whenValidatedExamGrades: validatedBills => Left(validatedBills as IClientBills),
-                //whenPublishedExamGrades: publishedBills => Right(publishedBills)
+               
             );
         }
 
@@ -103,15 +98,6 @@ namespace Exemple.Domain
            
            );
 
-        //whenUnvalidatedClientBills: unvalidatedClientBills => new($"Invalid state {nameof(UnvalidatedClientBills)}"),
-        //        whenInvalidExamGrades: invalidClientBills => new(invalidExamGrades.Reason),
-        //        whenValidatedExamGrades: validatedClientBills => new($"Invalid state {nameof(ValidatedClientBills)}"),
-        //        whenFailedExamGrades: failedClientBills =>
-        //        {
-        //            logger.LogError(failedClientBills.Exception, failedClientBills.Exception.Message);
-        //            return new(failedClientBills.Exception.Message);
-        //        },
-        //        whenCalculatedExamGrades: calculatedClientBills => new($"Invalid state {nameof(CalculatedClientBills)}"),
-        //        whenPublishedExamGrades: publishedClientBills => new($"Invalid state {nameof(PublishedClientBills)}"));
+     
     }
 }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MRBI3oa4S/cgJ0ZkSd8bQ8bCWJWaH4FSnhI8+VBKzPQ=",
+  "Source": "Example.ReportGenerator",
+  "BasePath": "_content/Example.ReportGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

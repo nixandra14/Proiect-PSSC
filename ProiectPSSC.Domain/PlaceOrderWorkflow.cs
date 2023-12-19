@@ -50,6 +50,8 @@ namespace ProiectPSSC.Domain
                          from productCatalog in productRepository.TryGetProductCatalog(unvalidatedOrder.ProductList.Select(product => product.ProductCode))
                                                   .ToEither(ex => new InvalidOrderProducts(unvalidatedOrder.ProductList, "eroare la product catalog") as IOrderProducts)
 
+                      
+
                          from existingClients in clientRepository.TryGetExistingClients(unvalidatedOrder.ProductList.Select(client => client.ClientEmail))
                                                  .ToEither(ex => new InvalidOrderProducts(unvalidatedOrder.ProductList, "eroare la client") as IOrderProducts)
                          let checkClientExists = (Func<ClientEmail, Option<ClientEmail>>)(client => CheckClientExists(existingClients, client))
@@ -63,7 +65,8 @@ namespace ProiectPSSC.Domain
                          from _ in orderHeaderRepository.TrySaveOrders(placedOrder)
                                                  .ToEither(ex => new InvalidOrderProducts(unvalidatedOrder.ProductList, "eroare la order header") as IOrderProducts)
 
-                      
+                     
+                         
                          select placedOrder;
 
             return await result.Match(

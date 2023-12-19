@@ -11,10 +11,6 @@ namespace Exemple.Domain.Models
 {
     public record Email
     {
-        //public const string ValidPattern = "^\\S+@\\S+\\.\\S+$";
-        //private static readonly Regex PatternRegex = new(ValidPattern);
-
-
         public string Value { get; }
 
         internal Email(string value)

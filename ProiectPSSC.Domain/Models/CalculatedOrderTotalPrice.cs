@@ -8,7 +8,7 @@ namespace ProiectPSSC.Domain.Models
 {
     public record CalculatedOrderTotalPrice(ClientEmail clientEmail,  ProductPrice totalPrice)
     {
-        public int ClientId { get; set; } //ma gandesc
+        public int ClientId { get; set; }
         public bool IsUpdated { get; set; }
 
     }

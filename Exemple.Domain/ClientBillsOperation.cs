@@ -57,12 +57,7 @@ namespace Exemple.Domain
            whenPublishedClientBills: published => published,
            whenCalculatedClientBills: calculated => calculated,
             whenValidatedClientBills: CalculateFinalBill
-            //whenUnvalidatedBills: unvalidatedClientBill => unvalidatedClientBill,
-            //whenInvalidExamGrades: invalidExam => invalidExam,
-            //whenFailedExamGrades: failedExam => failedExam,
-            //whenCalculatedExamGrades: calculatedExam => calculatedExam,
-            //whenPublishedExamGrades: publishedExam => publishedExam,
-            //whenValidatedExamGrades: CalculateFinalBill
+          
         );
 
         private static IClientBills CalculateFinalBill(ValidatedClientBills validClientBills) =>
@@ -73,10 +68,7 @@ namespace Exemple.Domain
 
         private static CalculatedBillNumber CalculateClientFinalBill(ValidatedClientBill validBill) =>
             new CalculatedBillNumber(validBill.clientEmail,
-                                      //validBill.ExamGrade,
-                                      //validBill.ActivityGrade,
-
-                                      //validBill.ExamGrade + validBill.ActivityGrade,
+                                     
 
                                       validBill.billAddress,
                                       validBill.billNumber);
@@ -89,13 +81,7 @@ namespace Exemple.Domain
            whenPublishedClientBills: published => published,
            whenCalculatedClientBills: calculated => MergeBills(calculated.BillList, existingBills));
 
-        //public static IClientBills MergeBills(IClientBills clientBill, IEnumerable<CalculatedBillNumber> existingBills) => clientBill.Match(
-        //    whenUnvalidatedClientBills: unvalidaTedExam => unvalidaTedExam,
-        //    whenInvalidExamGrades: invalidExam => invalidExam,
-        //    whenFailedExamGrades: failedExam => failedExam,
-        //    whenValidatedExamGrades: validatedExam => validatedExam,
-        //    whenPublishedExamGrades: publishedExam => publishedExam,
-        //    whenCalculatedExamGrades: calculatedExam => MergeBills(calculatedExam.BillList, existingBills));
+        
 
         private static CalculatedClientBills MergeBills(IEnumerable<CalculatedBillNumber> newList, IEnumerable<CalculatedBillNumber> existingList)
         {
@@ -121,7 +107,7 @@ namespace Exemple.Domain
                                     DateTime.Now);
 
         private static StringBuilder CreateCsvLine(StringBuilder export, CalculatedBillNumber bill) =>
-        //export.AppendLine($"{bill.ClientEmail.Value}, {bill.ExamGrade}, {bill.ActivityGrade}, {bill.FinalGrade}");
+      
             export.AppendLine($"{bill.ClientEmail.Value}, {bill.BillNumber}");
     }
 }

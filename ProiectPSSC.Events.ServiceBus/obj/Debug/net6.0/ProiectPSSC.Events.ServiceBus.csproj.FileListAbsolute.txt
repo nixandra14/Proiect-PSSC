@@ -1,0 +1,45 @@
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.ServiceBus.deps.json
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.ServiceBus.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.ServiceBus.pdb
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.pdb
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.csproj.AssemblyReference.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.AssemblyInfo.cs
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.csproj.CopyComplete
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\refint\ProiectPSSC.Events.ServiceBus.dll
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.pdb
+C:\Users\Roxana Vasile\Laborator-PSSC\Proiect_HotmiaTancVasile\Roxana\ProiectPSSC\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ref\ProiectPSSC.Events.ServiceBus.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.ServiceBus.deps.json
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.ServiceBus.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.ServiceBus.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.AssemblyInfo.cs
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.csproj.CopyComplete
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\refint\ProiectPSSC.Events.ServiceBus.dll
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.pdb
+C:\Users\maria\Downloads\ProiectPSSC - V10012\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ref\ProiectPSSC.Events.ServiceBus.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.ServiceBus.deps.json
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.ServiceBus.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.ServiceBus.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\bin\Debug\net6.0\ProiectPSSC.Events.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.csproj.AssemblyReference.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.AssemblyInfoInputs.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.AssemblyInfo.cs
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.csproj.CoreCompileInputs.cache
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.csproj.CopyComplete
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\refint\ProiectPSSC.Events.ServiceBus.dll
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ProiectPSSC.Events.ServiceBus.pdb
+D:\Facultate\AN 4\sem 1\PSSC\ProiectPSSC\ProiectPSSC - V1001\ProiectPSSC.Events.ServiceBus\obj\Debug\net6.0\ref\ProiectPSSC.Events.ServiceBus.dll
